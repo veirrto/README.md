@@ -1,1 +1,11 @@
 # README.md
+Hi
+I'm in my first year of computer science at Charles University.
+I usually put the assignments I have completed in my courses here.
+
+**My interests**:
+- Algorithms
+- Programming 
+- Cats
+- Learning languages 
+- Music
